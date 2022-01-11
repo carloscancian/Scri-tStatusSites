@@ -1,0 +1,5 @@
+https://random-status-code.herokuapp.com
+https://stackoverflow.com
+https://www.digitalocean.com
+https://www.google.com.br
+https://www.aws.amazon.com
